@@ -13,3 +13,10 @@ To run the website locally, execute the following:
 	$ cd jedevc.github.io
 	$ bundle install --path vendor/bundle
 	$ bundle exec jekyll serve
+
+## License
+
+My website and all associated text, blog posts, images and videos that are
+hosted on this site are licensed under the GNU GPL 3.
+
+For more details see the [LICENSE.txt](https://github.com/jedevc/jedevc.github.io/blob/master/LICENSE.txt).
