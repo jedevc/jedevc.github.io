@@ -27,12 +27,11 @@ programmer, are not aware of any of the underlying details of what is actually
 happening. You can just create, read and write files, and create directory
 structures without worrying about how it will be stored on disk.
 
-![Partition table in GParted](https://upload.wikimedia.org/wikipedia/commons/6/64/GParted.png)
+![Partition table in GParted](https://upload.wikimedia.org/wikipedia/commons/2/2c/GParted_0.18_GUID_partition_table.png)
 
-In the image above (taken from Wikipedia), you can see multiple partitions on a
-disk with different filesystems including [NTFS][Wikipedia - NTFS] (typically
-used by windows) and [ext3][Wikipedia - Ext3] (typically used by Linux, but now
-often replaced by [ext4][Wikipedia - Ext4]).
+There are lots of different types of filesystem that can be installed on
+partitions, including [NTFS][Wikipedia - NTFS] (typically used by Windows) and
+[ext4][Wikipedia - Ext4] (typically used by Linux).
 
 All of these filesystem drivers are implemented in kernel-space, which means
 that adding them or modifying them requires fairly heavy amounts of work,
