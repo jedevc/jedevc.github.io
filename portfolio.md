@@ -25,6 +25,10 @@ I've work on a few pet projects in my spare time:
 I also attend hackathons around the UK and try to build cool things in only 24
 hours:
 
+- Rap God [Royal Hackaway](https://github.com/jedevc/royal-hackaway-2019)
+	- Composes raps and performs them over phone calls in response to SMS messages
+	- Winner of **Best use of Nexmo** award
+	- Winner of **Best audio hack** award
 - Notendo Tunes at [Aston Hack 2018](https://github.com/jedevc/aston-hack-2018)
 	- Virtual theremin in the browser controlled by Nintendo Joycons
 	- Winner of **Best Hack** award
