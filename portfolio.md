@@ -25,9 +25,12 @@ I've work on a few pet projects in my spare time:
 I also attend hackathons around the UK and try to build cool things in only 24
 hours:
 
-- Rap God [Royal Hackaway](https://github.com/jedevc/royal-hackaway-2019)
+- Hexblock at [HackSurrey](https://github.com/wrussell1999/hacksurrey-2019)
+	- Immortalizes blockchain data in a 3D printed object
+	- Winner of **Best use of the GuardTime KSI SDK**
+- Rap God at [Royal Hackaway](https://github.com/jedevc/royal-hackaway-2019)
 	- Composes raps and performs them over phone calls in response to SMS messages
-	- Winner of **Best use of Nexmo** award
+	- Winner of **Best use of the Nexmo API** award
 	- Winner of **Best audio hack** award
 - Notendo Tunes at [Aston Hack 2018](https://github.com/jedevc/aston-hack-2018)
 	- Virtual theremin in the browser controlled by Nintendo Joycons
