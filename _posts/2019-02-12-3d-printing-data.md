@@ -3,6 +3,9 @@ layout: post
 title: 3D printing data
 ---
 
+Edit: I now have a more complete writeup [here][writeup] if you are interested
+in some of the more low level details of the encoding system.
+
 Last weekend, I was at [HackSurrey][HackSurrey] for my fourth hackathon. As it
 was my fourth, I felt experienced and knowledgable about how to do things. So, I
 decided to do something I'd never really ever thought about doing before - 3D
@@ -82,6 +85,7 @@ It also is quite pretty.
 If you're interested more in seeing how we built it, including the android app,
 you can check out the repo at <https://github.com/wrussell1999/hacksurrey-2019>.
 
+[writeup]: https://github.com/wrussell1999/hacksurrey-2019/raw/master/writeup/writeup.pdf
 [HackSurrey]: https://hacksurrey.uk
 [sculpteo]: https://www.sculpteo.com
 [factoradic]: https://en.wikipedia.org/wiki/Factorial_number_system
