@@ -6,12 +6,13 @@ permalink: /portfolio/
 
 # Projects
 
-I've work on a few pet projects in my spare time:
+I've worked on a few pet projects in my spare time:
 
 - [MagicFS](https://github.com/jedevc/mafs) (mafs)
 	- Idiomatic python library for quickly creating virtual file systems
 - [rngback](https://github.com/jedevc/rngback)
-	- Random geometric background generator for websites or desktop wallpapers
+	- Random geometric background generator for websites or desktop
+	  wallpapers
 - [DwarfShell](https://github.com/jedevc/DwarfShell) (dwsh)
 	- Simple single file shell with a few advanced features such as file
 	  redirection and piping
