@@ -1,6 +1,7 @@
 ---
 layout: post
 title: D-CTF secret writeup
+
 assets: /assets/ctf/dctf-secret
 ---
 
